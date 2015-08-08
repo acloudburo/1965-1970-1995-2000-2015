@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>life-1965-1970-1995-2000-2015</title>
+  <subtitle>Everything about Test</subtitle>
+  <id>https://1965-1970-1995-2000-2015.curation.space/</id>
+  <link href="https://1965-1970-1995-2000-2015.curation.space/"/>
+  <link href="https://1965-1970-1995-2000-2015.curation.space/feed.xml" rel="self"/>
+  <author>
+    <name>Felix</name>
+  </author>
+</feed>

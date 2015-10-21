@@ -1,63 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://1965-1970-1995-2000-2015.curation.space//menu4.html</loc>
-    <lastmod>2015-10-02</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://1965-1970-1995-2000-2015.curation.space//footer1.html</loc>
-    <lastmod>2015-10-02</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://1965-1970-1995-2000-2015.curation.space//footer4.html</loc>
-    <lastmod>2015-10-02</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://1965-1970-1995-2000-2015.curation.space//menu3.html</loc>
-    <lastmod>2015-10-02</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://1965-1970-1995-2000-2015.curation.space//menu2.html</loc>
-    <lastmod>2015-10-02</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://1965-1970-1995-2000-2015.curation.space//partials/disqus.html</loc>
-    <lastmod>2015-10-02</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
     <loc>https://1965-1970-1995-2000-2015.curation.space//about.html</loc>
-    <lastmod>2015-10-02</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://1965-1970-1995-2000-2015.curation.space//footer3.html</loc>
-    <lastmod>2015-10-02</lastmod>
+    <lastmod>2015-10-21</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://1965-1970-1995-2000-2015.curation.space//contact.html</loc>
-    <lastmod>2015-10-02</lastmod>
+    <lastmod>2015-10-21</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://1965-1970-1995-2000-2015.curation.space//footer1.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://1965-1970-1995-2000-2015.curation.space//footer2.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://1965-1970-1995-2000-2015.curation.space//footer3.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://1965-1970-1995-2000-2015.curation.space//footer4.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://1965-1970-1995-2000-2015.curation.space//</loc>
+    <lastmod>2015-10-21</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://1965-1970-1995-2000-2015.curation.space//menu1.html</loc>
-    <lastmod>2015-10-02</lastmod>
+    <lastmod>2015-10-21</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://1965-1970-1995-2000-2015.curation.space//menu2.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://1965-1970-1995-2000-2015.curation.space//menu3.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://1965-1970-1995-2000-2015.curation.space//menu4.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://1965-1970-1995-2000-2015.curation.space//partials/disqus.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -67,32 +79,44 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://1965-1970-1995-2000-2015.curation.space//footer2.html</loc>
-    <lastmod>2015-10-02</lastmod>
-    <priority>1.0</priority>
+    <loc>https://1965-1970-1995-2000-2015.curation.space//2015/10/21/momentaufnahmen-sudfrankreich.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://1965-1970-1995-2000-2015.curation.space//</loc>
-    <lastmod>2015-10-02</lastmod>
-    <priority>1.0</priority>
+    <loc>https://1965-1970-1995-2000-2015.curation.space//tags/market.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://1965-1970-1995-2000-2015.curation.space//tags/france.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://1965-1970-1995-2000-2015.curation.space//2015.html</loc>
-    <lastmod>2015-10-02</lastmod>
+    <lastmod>2015-10-21</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://1965-1970-1995-2000-2015.curation.space//2015/10.html</loc>
-    <lastmod>2015-10-02</lastmod>
+    <lastmod>2015-10-21</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://1965-1970-1995-2000-2015.curation.space//2015/10/21.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://1965-1970-1995-2000-2015.curation.space//2015/10/19.html</loc>
-    <lastmod>2015-10-02</lastmod>
+    <lastmod>2015-10-21</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>

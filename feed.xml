@@ -1,75 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>1965-1970-1995-2000-2015</title>
+  <title>Curation Platform Showcases</title>
   <subtitle>Everything about Test</subtitle>
   <id>https://1965-1970-1995-2000-2015.curation.space/</id>
   <link href="https://1965-1970-1995-2000-2015.curation.space/"/>
   <link href="https://1965-1970-1995-2000-2015.curation.space/feed.xml" rel="self"/>
-  <updated>2015-10-21T10:22:40Z</updated>
+  <updated>2015-10-19T05:57:45Z</updated>
   <author>
     <name>Felix</name>
   </author>
-  <entry>
-    <title>Momentaufnahmen Südfrankreich</title>
-    <link rel="alternate" href="https://1965-1970-1995-2000-2015.curation.space/2015/10/21/momentaufnahmen-sudfrankreich.html"/>
-    <id>https://1965-1970-1995-2000-2015.curation.space/2015/10/21/momentaufnahmen-sudfrankreich.html</id>
-    <published>2015-10-21T10:22:40Z</published>
-    <updated>2015-10-21T22:23:16+02:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/545c0d5dd7eeddefd7ab9cf68cd21564.jpeg" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/d356df9c367f228076ce5b4492412d0d.jpeg" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/053c3e5f786865be8d1de0ca74c53f97.jpeg" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/918f8eca4bfda2ff050d85b210143816.jpeg" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/6b4b28709ea2efeec614763cf46336ad.jpeg" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
   <entry>
     <title>A day trip to Cannes</title>
     <link rel="alternate" href="https://1965-1970-1995-2000-2015.curation.space/2015/10/19/a-day-trip-to-cannes.html"/>
     <id>https://1965-1970-1995-2000-2015.curation.space/2015/10/19/a-day-trip-to-cannes.html</id>
     <published>2015-10-19T05:57:45Z</published>
-    <updated>2015-10-21T21:30:42+02:00</updated>
+    <updated>2015-10-21T21:09:05+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
